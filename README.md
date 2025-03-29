@@ -1,2 +1,2 @@
 # Python
-Different projects with python uwu
+Different projects with python
